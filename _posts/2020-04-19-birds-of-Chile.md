@@ -7,14 +7,13 @@ tags: [documentation,sample]
 image: birdsOfChile.jpg
 ---
 
-![alt text](https://raw.githubusercontent.com/andreasilvau/andreasilvau.github.io/master/assets/img/chincol.jpg =100x20 "Chincol")
+<img src="https://raw.githubusercontent.com/andreasilvau/andreasilvau.github.io/master/assets/img/chincol.jpg" width="600" height="600">
 This bird is blah blah
 
-
-![alt text](https://raw.githubusercontent.com/andreasilvau/andreasilvau.github.io/master/assets/img/cucao.jpg =100x20 "Cucao")
+<img src="https://raw.githubusercontent.com/andreasilvau/andreasilvau.github.io/master/assets/img/chucao.jpg" width="600" height="600">
 This bird is blah blah
 
-![alt text](https://raw.githubusercontent.com/andreasilvau/andreasilvau.github.io/master/assets/img/cometocino.jpg =100x20 "Cometocino")
+<img src="https://raw.githubusercontent.com/andreasilvau/andreasilvau.github.io/master/assets/img/cometocino.jpg" width="600" height="600">
 This bird is blah blah
 
 
