@@ -7,18 +7,18 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Illustrations', folder: 'pages', file: 'facts.html'}
-- {name: 'Scientific illustration', folder: 'pages', file: 'resources.html'}
-- {name: 'Dolls', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'My store', folder: 'pages', file: 'documentation.html'}
+- {name: 'Kids illustrations', folder: 'pages', file: 'kidsIllustrations.html'}
+- {name: 'Birds of Chile', folder: 'pages', file: 'birdsOfChile.html'}
+- {name: 'Artworks', folder: 'pages', file: 'artworks.html'}
+- {name: 'Other projects', folder: 'pages', file: 'otherProjects.html'}
 - {name: 'About me', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'twitter', link: 'https://twitter.com/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/'}
+- {icon: 'instagram', link: 'https://instagram.com/andrea.silva.u'}
 - {icon: 'envelope', link: 'mailto:andreasilvau@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
