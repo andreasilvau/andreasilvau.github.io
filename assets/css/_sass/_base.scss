@@ -46,7 +46,9 @@ body img {
     margin: 5px auto auto auto;
     display: block;
     max-width: 600px;
+}
 
+.img:hover{
     color: #424242; 
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
