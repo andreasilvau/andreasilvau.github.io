@@ -1,11 +1,27 @@
 
 
-- In posts under "_posts" folder we can add images by using
-
+- markdown example of an image
     <img src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg" width="600" height="600">
     ![alt text](https://andreasilvau.github.io/assets/img/birds_chincol.jpg "Chincol")
     
-
-- If what you want is a combination of both… an image that is a link, just combine them like this:
+- markdown example of an image with a link
     [![Alt text](/path/to/img.jpg)](http://example.net/)
 
+- html example of an image with a link
+    <p>
+    An image as a link: <a href="https://www.w3schools.com">
+    <img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
+    </a>
+    </p>
+    
+- Example of two columns in html 
+    <table border="0">
+     <tr>
+        <td><b style="font-size:30px">Title</b></td>
+        <td><b style="font-size:30px">Title 2</b></td>
+     </tr>
+     <tr>
+        <td>Lorem ipsum ...</td>
+        <td>Lorem ipsum ...</td>
+     </tr>
+    </table>
