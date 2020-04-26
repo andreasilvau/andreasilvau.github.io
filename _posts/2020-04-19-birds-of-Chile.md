@@ -19,7 +19,7 @@ The following is a collaction of birds native from Chile, my homecountry. They a
 </td>
 <td style="width:50%">
 This bird is blah blah. 
-And the 
+And the main
 </td>
 </tr>
 </table>
