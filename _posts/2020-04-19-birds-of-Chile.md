@@ -9,7 +9,6 @@ image: birdsOfChile.jpg
 
 The following is a collection of birds native from Chile, my homecountry. They are made in watercolors
 
-
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 
