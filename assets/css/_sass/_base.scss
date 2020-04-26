@@ -48,6 +48,19 @@ body img {
     max-width: 600px;
 }
 
+img:hover {
+    color: #424242; 
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    opacity: 1;
+    transform: scale(3);
+    -ms-transform: scale(3); /* IE 9 */
+    -webkit-transform: scale(3); /* Safari and Chrome */
+}
+
 .overlay {
   position: fixed;
   z-index: 99;
