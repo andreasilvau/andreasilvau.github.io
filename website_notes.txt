@@ -1,0 +1,11 @@
+
+
+- In posts under "_posts" folder we can add images by using
+
+    <img src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg" width="600" height="600">
+    ![alt text](https://andreasilvau.github.io/assets/img/birds_chincol.jpg "Chincol")
+    
+
+- If what you want is a combination of both… an image that is a link, just combine them like this:
+    [![Alt text](/path/to/img.jpg)](http://example.net/)
+
