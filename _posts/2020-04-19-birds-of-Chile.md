@@ -13,7 +13,7 @@ The following is a collection of birds native from Chile, my homecountry. They a
 <table border="0" style="width:100%">
 <tr>
 <td style="width:50%">
-<img id="myImg" border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg" style="width:100%">
+<img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg" style="width:100%">
 </td>
 <td style="width:50%">
 This bird is blah blah. 
