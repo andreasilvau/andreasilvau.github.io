@@ -15,13 +15,16 @@
     </p>
     
 - Example of two columns in html 
-    <table border="0">
-     <tr>
-        <td><b style="font-size:30px">Title</b></td>
-        <td><b style="font-size:30px">Title 2</b></td>
-     </tr>
-     <tr>
-        <td>Lorem ipsum ...</td>
-        <td>Lorem ipsum ...</td>
-     </tr>
+    <table border="0" style="width:100%">
+        <tr>
+        <td style="width:50%">
+          <a href="https://andreasilvau.github.io/">
+          <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg" style="width:100%">
+          </a>
+        </td>
+        <td style="width:50%">
+          This bird is blah blah. 
+          And the 
+        </td>
+        </tr>
     </table>

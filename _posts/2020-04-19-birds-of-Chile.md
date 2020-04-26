@@ -10,16 +10,19 @@ image: birdsOfChile.jpg
 The following is a collaction of birds native from Chile, my homecountry. They are made in watercolors
 
 ## Chincol
-<table border="0">
- <tr>
-    <td>
-    <a href="https://andreasilvau.github.io/">
-    <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg">
-    </a>
-    </td>
-    <td>This bird is blah blah</td>
- </tr>
-</table>
+    <table border="0" style="width:100%">
+        <tr>
+        <td style="width:50%">
+          <a href="https://andreasilvau.github.io/">
+          <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/birds_chincol.jpg" style="width:100%">
+          </a>
+        </td>
+        <td style="width:50%">
+          This bird is blah blah. 
+          And the 
+        </td>
+        </tr>
+    </table>
 
 ## Chucao
 [![alt text](https://andreasilvau.github.io/assets/img/birds_chucao.jpg "Chucao")](https://andreasilvau.github.io/)
