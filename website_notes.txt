@@ -5,7 +5,7 @@
     ![alt text](https://andreasilvau.github.io/assets/img/birds_chincol.jpg "Chincol")
     
 - markdown example of an image with a link
-    [![Alt text](/path/to/img.jpg)](http://example.net/)
+    [![alt text](https://andreasilvau.github.io/assets/img/birds_chucao.jpg "Chucao")](https://andreasilvau.github.io/)
 
 - html example of an image with a link
     <p>

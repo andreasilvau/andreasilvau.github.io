@@ -25,22 +25,77 @@ And the main
 </table>
 
 ## Chucao
-[![alt text](https://andreasilvau.github.io/assets/img/birds_chucao.jpg "Chucao")](https://andreasilvau.github.io/)
-This bird is blah blah
+<table border="0" style="width:100%">
+<tr>
+<td style="width:50%">
+<a href="https://andreasilvau.github.io/">
+<img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/birds_chucao.jpg" style="width:100%">
+</a>
+</td>
+<td style="width:50%">
+This bird is blah blah. 
+And the main
+</td>
+</tr>
+</table>
 
 ## Cometocino
-[![alt text](https://andreasilvau.github.io/assets/img/birds_cometocino.jpg "Cometocino")](https://andreasilvau.github.io/)
-This bird is blah blah
+<table border="0" style="width:100%">
+<tr>
+<td style="width:50%">
+<a href="https://andreasilvau.github.io/">
+<img border="0" alt="Cometocino" src="https://andreasilvau.github.io/assets/img/birds_cometocino.jpg" style="width:100%">
+</a>
+</td>
+<td style="width:50%">
+This bird is blah blah. 
+And the main
+</td>
+</tr>
+</table>
 
 ## Pinguino de Humboldt
-[![alt text](https://andreasilvau.github.io/assets/img/birds_humboldt.jpg "Pinguino de Humboldt")](https://andreasilvau.github.io/)
-This bird is blah blah
+<table border="0" style="width:100%">
+<tr>
+<td style="width:50%">
+<a href="https://andreasilvau.github.io/">
+<img border="0" alt="Pinguino de Humboldt" src="https://andreasilvau.github.io/assets/img/birds_humboldt.jpg" style="width:100%">
+</a>
+</td>
+<td style="width:50%">
+This bird is blah blah. 
+And the main
+</td>
+</tr>
+</table>
 
 ## Picaflor chico
-[![alt text](https://andreasilvau.github.io/assets/img/birds_picaflorchico.jpg "Picaflor chico")](https://andreasilvau.github.io/)
-This bird is blah blah
+<table border="0" style="width:100%">
+<tr>
+<td style="width:50%">
+<a href="https://andreasilvau.github.io/">
+<img border="0" alt="Picaflor chico" src="https://andreasilvau.github.io/assets/img/birds_picaflorchico.jpg" style="width:100%">
+</a>
+</td>
+<td style="width:50%">
+This bird is blah blah. 
+And the main
+</td>
+</tr>
+</table>
 
 ## Siete colores
-[![alt text](https://andreasilvau.github.io/assets/img/birds_sietecolores.jpg "Siete colores")](https://andreasilvau.github.io/)
-This bird is blah blah
+<table border="0" style="width:100%">
+<tr>
+<td style="width:50%">
+<a href="https://andreasilvau.github.io/">
+<img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/birds_sietecolores.jpg" style="width:100%">
+</a>
+</td>
+<td style="width:50%">
+This bird is blah blah. 
+And the main
+</td>
+</tr>
+</table>
 
