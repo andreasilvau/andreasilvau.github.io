@@ -24,21 +24,6 @@ And the main
 </tr>
 </table>
 
-<img src="http://s3-media1.ak.yelpcdn.com/bphoto/sMONYSiLUQEvooJ5hZh0Sw/l.jpg" class="img" alt="" width="200" height="150">
-.img:hover{
-    color: #424242; 
-  -webkit-transition: all .3s ease-in;
-  -moz-transition: all .3s ease-in;
-  -ms-transition: all .3s ease-in;
-  -o-transition: all .3s ease-in;
-  transition: all .3s ease-in;
-  opacity: 1;
-  transform: scale(1.15);
-  -ms-transform: scale(1.15); /* IE 9 */
-  -webkit-transform: scale(1.15); /* Safari and Chrome */
-
-}
-
 ## Chucao
 <table border="0" style="width:100%">
 <tr>
