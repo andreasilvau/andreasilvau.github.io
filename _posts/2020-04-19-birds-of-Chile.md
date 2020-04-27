@@ -29,7 +29,7 @@ Terminé mi chincolito! Ahora espero poder hacer otras aves!
     </td>
     <td style="width:50%">
         <p align="justify">
-The Chucao,  the king of the forests, is a small bird with an artistic and loud reputation typical of the rainforests of southern Chile. However, normally it lives very hidden and is therefore difficult to observe.... It is really difficult to find an inspiration when your mind and heart are in a different place. However, this little cutie showed up and today I finally had some time to finish it.
+The Chucao,  the king of the forests, is a small bird with an artistic and loud reputation typical of the rainforests of southern Chile. However, normally it lives very hidden and is therefore difficult to observe. It is really difficult to find an inspiration when your mind and heart are in a different place. However, this little cutie showed up and today I finally had some time to finish it.
         </p>
     </td>
 </tr>
