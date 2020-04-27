@@ -73,7 +73,7 @@ The Green-backed Firecrown (Sephanoides sephaniodes) or Picaflor Chico is a humm
 <table border="0" style="width:100%">
 <tr>
 <td style="width:50%">
-<img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/seven_colors.jpg" style="width:100%">
+<img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/seven_colors.png" style="width:100%">
 </td>
 <td style="width:50%">
 Seven Colors is a bird that lives in central Chile. Active, but can be overlooked easily, low to high in reeds and on adjacent mud.
