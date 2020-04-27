@@ -48,6 +48,19 @@ body img {
     max-width: 600px;
 }
 
+img:click{
+    color: #424242; 
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    opacity: 1;
+    transform: scale(2);
+    -ms-transform: scale(2); /* IE 9 */
+    -webkit-transform: scale(2); /* Safari and Chrome */
+}
+
 p {
   display: block;
   margin-top: 1em;

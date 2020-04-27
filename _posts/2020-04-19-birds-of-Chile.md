@@ -112,7 +112,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <div id="caption"></div>
 </div>
 
-<script>
+    <script>
 // Get the modal
 var modal = document.getElementById("myModal");
 
