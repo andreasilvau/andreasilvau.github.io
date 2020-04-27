@@ -13,7 +13,7 @@ The following is a collection of birds native from Chile, my homecountry. They a
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Chincol" src="andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
@@ -27,7 +27,7 @@ Terminé mi chincolito! Ahora espero poder hacer otras aves!
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Chucao" src="andreasilvau.github.io/assets/img/chucao2.jpg" style="width:100%">
+        <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/chucao2.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
@@ -41,7 +41,7 @@ The Chucao,  the king of the forests, is a small bird with an artistic and loud 
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Cometocino" src="andreasilvau.github.io/assets/img/cometocino.jpg" style="width:100%">
+        <img border="0" alt="Cometocino" src="https://andreasilvau.github.io/assets/img/cometocino.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
@@ -55,7 +55,7 @@ Comesebo patagónico​ o cometocino patagónico​ (Phrygilus patagonicus) is a
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Pinguino de Humboldt" src="andreasilvau.github.io/assets/img/humboldt.png" style="width:100%">
+        <img border="0" alt="Pinguino de Humboldt" src="https://andreasilvau.github.io/assets/img/humboldt.png" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
@@ -69,7 +69,7 @@ Pingüino de Magallanes or (Spheniscus magellanicus) is a South American penguin
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Picaflor chico" src="andreasilvau.github.io/assets/img/picaflor.jpg" style="width:100%">
+        <img border="0" alt="Picaflor chico" src="https://andreasilvau.github.io/assets/img/picaflor.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
@@ -83,7 +83,7 @@ The Green-backed Firecrown (Sephanoides sephaniodes) or Picaflor Chico is a humm
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Siete colores" src="andreasilvau.github.io/assets/img/seven_colors.png" style="width:100%">
+        <img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/seven_colors.png" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
