@@ -12,36 +12,38 @@ The following is a collection of birds native from Chile, my homecountry. They a
 ## Chincol
 <table border="0" style="width:100%">
 <tr>
-<td style="width:50%">
-<img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
-</td>
-<td style="width:50%">
+    <td style="width:50%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
 Terminé mi chincolito! Ahora espero poder hacer otras aves!
-</td>
+    </td>
 </tr>
 </table>
 
 ## Chucao
 <table border="0" style="width:100%">
 <tr>
-<td style="width:50%">
-<img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/chucao2.jpg" style="width:100%">
-</td>
-<td style="width:50%">
+    <td style="width:50%">
+        <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/chucao2.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
+        <p align="justify">
 The Chucao,  the king of the forests, is a small bird with an artistic and loud reputation typical of the rainforests of southern Chile. However, normally it lives very hidden and is therefore difficult to observe.... It is really difficult to find an inspiration when your mind and heart are in a different place. However, this little cutie showed up and today I finally had some time to finish it.
-</td>
+        </p>
+    </td>
 </tr>
 </table>
 
 ## Cometocino
 <table border="0" style="width:100%">
 <tr>
-<td style="width:50%">
-<img border="0" alt="Cometocino" src="https://andreasilvau.github.io/assets/img/cometocino.jpg" style="width:100%">
-</td>
-<td style="width:50%">
+    <td style="width:50%">
+        <img border="0" alt="Cometocino" src="https://andreasilvau.github.io/assets/img/cometocino.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
 Comesebo patagónico​ o cometocino patagónico​ (Phrygilus patagonicus) is an attractive small “finch” that is actually a tanager; found in humid forest and wooded habitats in southern Chile and adjacent Argentina. Often in groups, especially in winter, and feeds from the ground to high in trees.
-</td>
+    </td>
 </tr>
 </table>
 
