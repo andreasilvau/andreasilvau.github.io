@@ -3,7 +3,7 @@
 This is the repository of my personal website [andreasilvau.com](https://andreasilvau.com)
 The theme is based on [Millennial by LeNPaul](https://github.com/LeNPaul/Millennial)
 
-![alt text](assets/img/logo_copihue2.png =100x20 "Andrea Silva Urzua logo")
+<img border="0" alt="logo_copihue2" src="https://andreasilvau.github.io/assets/img/logo_copihue2.png" style="width:50%">
 
 ## Issues when forking Millennial theme
 The page was not building, I had to include a master branch to the repo
