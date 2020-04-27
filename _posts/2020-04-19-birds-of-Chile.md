@@ -27,7 +27,7 @@ Chincol, this little bird is 15 centimeters long. It has black wings and tail, g
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/chucao.jpg" style="width:100%">
+        <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/chucaorgb.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
