@@ -17,7 +17,7 @@ The following is a collection of birds native from Chile, my homecountry. They a
     </td>
     <td style="width:50%">
         <p align="justify">
-Terminé mi chincolito! Ahora espero poder hacer otras aves!
+Chincol, this little bird is 15 centimeters long. It has black wings and tail, grey face and crest with black stripes on the sides. There is a brown collar around its neck and it has white feathers on its tummy.
         </p>
     </td>
 </tr>
@@ -92,4 +92,3 @@ Seven Colors is a bird that lives in central Chile. Active, but can be overlooke
     </td>
 </tr>
 </table>
-
