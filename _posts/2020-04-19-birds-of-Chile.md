@@ -49,7 +49,7 @@ Comesebo patagónico​ o cometocino patagónico​ (Phrygilus patagonicus) is a
 <table border="0" style="width:100%">
 <tr>
 <td style="width:50%">
-<img border="0" alt="Pinguino de Humboldt" src="https://andreasilvau.github.io/assets/img/humboldt.jpg" style="width:100%">
+<img border="0" alt="Pinguino de Humboldt" src="https://andreasilvau.github.io/assets/img/humboldt.png" style="width:100%">
 </td>
 <td style="width:50%">
 Pingüino de Magallanes or (Spheniscus magellanicus) is a South American penguin, breeding in coastal Patagonia, including Argentina, Chile and the Falkland Islands, with some migrating to Brazil where they are occasionally seen as far north as Espirito Santo. Its nearest relatives are the African penguin, the Humboldt penguin, and the Galápagos penguins. often seen in inshore waters and from ferries. Breeds around coasts of southern Chile, Argentina, and in the Falklands; nests in colonies in underground burrows. Only identification concern is limited range overlap in central Chile with Humboldt Penguin, which has single (not double) black breast band, narrower white eyebrow, and big pink patch at base of bill.
