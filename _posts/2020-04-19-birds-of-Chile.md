@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Naturalist Illustration"
+title: "Birds of Chile"
 author: "Andrea Silva Urzua"
-categories: Naturalist
+categories: naturalist
 tags: [documentation,sample]
 image: birdsOfChile.jpg
 ---

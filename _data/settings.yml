@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Illustrative Watercolor', folder: 'pages', file: 'Illustrative.html'}
-- {name: 'Naturalist Illustration', folder: 'pages', file: 'Naturalist.html'}
+- {name: 'Illustrative Watercolor', folder: 'pages', file: 'illustrative.html'}
+- {name: 'Naturalist Illustration', folder: 'pages', file: 'naturalist.html'}
 - {name: 'Artworks', folder: 'pages', file: 'artworks.html'}
 #- {name: 'Other projects', folder: 'pages', file: 'otherProjects.html'}
 - {name: 'About me', folder: 'pages', file: 'about.html'}
