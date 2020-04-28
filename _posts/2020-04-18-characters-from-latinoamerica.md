@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Original artwork"
+title: "Characters from Latinoamérica"
 author: "Andrea Silva Urzua"
-categories: artworks
+categories: artwork
 tags: [documentation,sample]
 image: artwork.png
 ---
 
-The following is a collection my original work
+The following is a collection special characteres from Latinoamérica. 
 
 ## Camelia
 <table border="0" style="width:100%">
