@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Birds of Chile"
+title: "Kids Illustrations"
 author: "Andrea Silva Urzua"
-categories: naturalist
+categories: illustrative
 tags: [documentation,sample]
-image: birdsOfChile.jpg
+image: kids.jpg
 ---
 
 The following is a collection of birds native from Chile, my homecountry. They are made in watercolors
