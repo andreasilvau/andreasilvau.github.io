@@ -12,7 +12,8 @@ menu:
 - {name: 'Artworks', folder: 'pages', file: 'artworks.html'}
 #- {name: 'Other projects', folder: 'pages', file: 'otherProjects.html'}
 - {name: 'About me', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+#- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Store', folder: 'pages', file: 'store.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
