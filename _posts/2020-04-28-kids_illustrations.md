@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Kids Illustrations"
+title: "Illustrative Watercolor"
 author: "Andrea Silva Urzua"
 categories: illustrative
 tags: [documentation,sample]
 image: kids.jpg
 ---
 
-The following is a collection of illustrative watercolor.
+The following is a collection of illustrative watercolor. Take a look and discover my world.
 ## Principito (Little Princes)
 <table border="0" style="width:100%">
 <tr>
