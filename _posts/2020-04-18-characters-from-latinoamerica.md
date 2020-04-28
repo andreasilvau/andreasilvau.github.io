@@ -25,10 +25,6 @@ The following is a collection special characteres from Latinoamérica.
     <td style="width:50%">
 
     </td>
-    
-
-
-
 
 </tr>
 </table>
@@ -37,13 +33,13 @@ The following is a collection special characteres from Latinoamérica.
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/juguete1.jpg" style="width:100%">
+        <img border="0" alt="Diablo de la Tirana" src="https://andreasilvau.github.io/assets/img/juguete1.jpg" style="width:100%">
     </td>
     <td style="width:50%">
-        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/juguete3.jpg" style="width:100%">
+        <img border="0" alt="Diablo de la Tirana" src="https://andreasilvau.github.io/assets/img/juguete3.jpg" style="width:100%">
     </td>
     <td style="width:50%">
-        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/juguete5.jpg" style="width:100%">
+        <img border="0" alt="Diablo de la Tirana" src="https://andreasilvau.github.io/assets/img/juguete5.jpg" style="width:100%">
     </td>
     <td style="width:50%">
 
