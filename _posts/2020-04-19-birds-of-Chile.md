@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Birds of Chile"
+title: "Naturalist Illustration"
 author: "Andrea Silva Urzua"
-categories: birdsOfChile
+categories: Naturalist
 tags: [documentation,sample]
 image: birdsOfChile.jpg
 ---
@@ -59,7 +59,7 @@ Comesebo patagónico​ o cometocino patagónico​ (Phrygilus patagonicus) is a
     </td>
     <td style="width:50%">
         <p align="justify">
-Pingüino de Magallanes or (Spheniscus magellanicus) is a South American penguin, breeding in coastal Patagonia, including Argentina, Chile and the Falkland Islands, with some migrating to Brazil where they are occasionally seen as far north as Espirito Santo. Its nearest relatives are the African penguin, the Humboldt penguin, and the Galápagos penguins. often seen in inshore waters and from ferries. 
+Pingüino de Magallanes or (Spheniscus magellanicus) is a South American penguin, breeding in coastal Patagonia, including Argentina, Chile and the Falkland Islands, with some migrating to Brazil where they are occasionally seen as far north as Espirito Santo. Its nearest relatives are the African penguin, the Humboldt penguin, and the Galápagos penguins. often seen in inshore waters and from ferries.
         </p>
     </td>
 </tr>
