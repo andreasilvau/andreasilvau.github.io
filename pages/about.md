@@ -14,4 +14,4 @@ Naturalist illustration is a discipline characterized by exploring themes relate
 </p>
 
 
- <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/logo.jpg" style="width:50%">
+ <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/logo.png" style="width:50%">
