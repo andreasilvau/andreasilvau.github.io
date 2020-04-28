@@ -10,7 +10,7 @@ My name is Andrea, I am a Chilean midwife and a self-taught watercolor illustrat
 
 <p align="justify">
 What is  Naturalist Illustration?
-Naturalist illustration is a discipline characterized by exploring themes related to the nature, like life and biodiversity representations.. Those illustrations not only represented the discovered species physiognomy, but also the environment. Naturalist illustration is considered closer to realism or even to hyperrealism than to scientific illustration. This discipline searches for the harmony in compositions and the use of colour.
+Naturalist illustration is a discipline characterized by exploring themes related to the nature, like life and biodiversity representations. Those illustrations not only represented the discovered species physiognomy, but also the environment. 
 </p>
 
 
