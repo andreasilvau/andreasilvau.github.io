@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Illustrative Watercolor"
+title: "Kids Illustrations"
 author: "Andrea Silva Urzua"
 categories: illustrative
 tags: [documentation,sample]
