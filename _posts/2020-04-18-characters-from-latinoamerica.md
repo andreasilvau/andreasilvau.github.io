@@ -2,7 +2,7 @@
 layout: post
 title: "Characters from Latinoamérica"
 author: "Andrea Silva Urzua"
-categories: artwork
+categories: Artwork
 tags: [documentation,sample]
 image: juguetes.jpg
 ---
