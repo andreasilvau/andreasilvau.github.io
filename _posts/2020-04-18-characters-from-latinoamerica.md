@@ -4,49 +4,64 @@ title: "Characters from Latinoamérica"
 author: "Andrea Silva Urzua"
 categories: artwork
 tags: [documentation,sample]
-image: artwork.png
+image: juguetes.jpg
 ---
 
-The following is a collection special characteres from Latinoamérica. 
+The following is a collection special characteres from Latinoamérica.
 
-## Camelia
+## Catrina
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Camelia" src="https://andreasilvau.github.io/assets/img/camelia.jpg" style="width:100%">
+        <img border="0" alt="Catrina" src="https://andreasilvau.github.io/assets/img/catrina1.jpg" style="width:100%">
     </td>
     <td style="width:50%">
-        <p align="justify">
-Camelia en tonos rosa. Watercolor
-        </p>
+        <img border="0" alt="Catrina" src="https://andreasilvau.github.io/assets/img/catrina2.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
+        <img border="0" alt="Catrina" src="https://andreasilvau.github.io/assets/img/catrina3.jpg" style="width:100%">
+    </td>
+
+    <td style="width:50%">
+
+    </td>
+    
+
+
+
+
+</tr>
+</table>
+
+## Diablo de la Tirana
+<table border="0" style="width:100%">
+<tr>
+    <td style="width:50%">
+        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/juguete1.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
+        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/juguete3.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
+        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/juguete5.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
+
     </td>
 </tr>
 </table>
 
-## Copihue
+## Trenzas
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Copihue" src="https://andreasilvau.github.io/assets/img/copihue.jpg" style="width:100%">
+        <img border="0" alt="Trenzas" src="https://andreasilvau.github.io/assets/img/trenzas1.jpg" style="width:100%">
     </td>
     <td style="width:50%">
-        <p align="justify">
-Picaflor y copihue
-        </p>
+        <img border="0" alt="Trenzas" src="https://andreasilvau.github.io/assets/img/trenzas2.jpg" style="width:100%">
     </td>
-</tr>
-</table>
+    <td style="width:50%">
 
-## Desiderata
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Desiderata" src="https://andreasilvau.github.io/assets/img/desiderata.png" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-This was my first artwork presented for a competition. In State College PA, February of 2020.
-        </p>
     </td>
 </tr>
 </table>
