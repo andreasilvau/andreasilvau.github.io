@@ -48,7 +48,7 @@ title: Store
 # How to order
 * Send us a message by clicking any of the icons on the top right corner 
   * Facebook, Instagram, Whatsapp or Email
-  * A good old text message is also welcomed at +1 (814) 777 1882
+  * A good old text message is also welcomed +1 814 777 1882
 * We will need the following information from you
   * The product you want
   * The size you want
