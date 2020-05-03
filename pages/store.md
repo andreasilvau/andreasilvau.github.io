@@ -81,7 +81,7 @@ Regards
 # Other products
 
 ## Original paintings
-<img border="0" alt="Original paintings 1" src="https://andreasilvau.github.io/assets/img/shop/1.jp1g" style="width:50%">
+<img border="0" alt="Original paintings 1" src="https://andreasilvau.github.io/assets/img/shop/1.jpeg" style="width:50%">
 
 Job inquiries, say hello or any questions can be sent to: 
 andrea.silva.u@gmail.com
