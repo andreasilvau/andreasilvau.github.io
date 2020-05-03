@@ -10,7 +10,7 @@ title: Store
     greeting card or postcard. 
 </p>
 
-## Gretting cards
+## Greeting cards
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
