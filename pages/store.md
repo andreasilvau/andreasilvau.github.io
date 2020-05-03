@@ -3,7 +3,7 @@ layout: misc
 title: Store
 ---
 
-# Products
+# 1) Products
 
 <p align="justify">
     Any of the paintings in this site can be converted into a nice folded 
@@ -45,7 +45,7 @@ title: Store
 |2.00         | 4.25 x 5.5     | Small    |
 |3.00         | 5.5 x 4.25     | Big      |
 
-# How to order
+# 2) How to order
 * Send us a message by clicking any of the icons on the top right corner 
   * Facebook, Instagram, Whatsapp or Email
 * We will need the following information from you
@@ -65,7 +65,7 @@ My address is 123 Oak St
 Regards
 ```
 
-# Payment options
+# 3) Payment options
 
 * Check
   * Pay to: Andrea Silva
