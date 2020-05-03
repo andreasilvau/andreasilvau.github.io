@@ -80,7 +80,7 @@ Regards
 
 # Other products
 
-## Original paintings
+## Handmade paintings
 <img border="0" alt="Original paintings 1" src="https://andreasilvau.github.io/assets/img/shop/1.jpeg" style="width:50%">
 
 Job inquiries, say hello or any other question can be sent to: 
