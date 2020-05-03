@@ -4,7 +4,7 @@ title: "Pennsylvania Vibes"
 author: "Andrea Silva Urzua"
 categories: artwork
 tags: [documentation,sample]
-image: artwork.png
+image: pa.jpg
 ---
 
 The following is my view of this part of United States, Pennsylvania. As an expat, I really enjoy the farms and the calm and I wanted to reflect this personal view in watercolors.
