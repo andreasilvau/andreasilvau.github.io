@@ -6,8 +6,8 @@ title: Store
 # 1) Products
 
 <p align="justify">
-    Any of the paintings in this site can be converted into a nice folded 
-    greeting card or postcard. 
+    Any of the paintings in this site can be converted into a nice folded
+    greeting card or postcard.
 </p>
 
 ## Greeting cards
@@ -25,7 +25,7 @@ title: Store
 |Price usd    | Size inches    | Name     |
 |:-----------:|:--------------:|---------:|
 |2.00         | 4.25 x 5.5     | Small    |
-|3.00         | 5 x 7          | Big      |
+
 
 ## Postcards
 <table border="0" style="width:100%">
@@ -45,7 +45,7 @@ title: Store
 |3.00         | 5 x 7          | Big      |
 
 # 2) How to order
-* Send us a message by clicking any of the icons on the top right corner 
+* Send us a message by clicking any of the icons on the top right corner
   * Facebook, Instagram, Whatsapp or Email
 * We will need the following information from you
   * The product you want
@@ -54,7 +54,7 @@ title: Store
   * Your address
 * We will deliver things to you in up to 10 business days
 
-Example: 
+Example:
 ```
 Hi Andrea
 I would like
@@ -82,8 +82,7 @@ Regards
 ## Handmade paintings
 <img border="0" alt="Original paintings 1" src="https://andreasilvau.github.io/assets/img/shop/1.jpeg" style="width:50%">
 
-Job inquiries, say hello or any other question can be sent to: 
+Job inquiries, say hello or any other question can be sent to:
 andrea.silva.u@gmail.com
 
 A better store website is coming up soon :)
-
