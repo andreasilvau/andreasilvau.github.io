@@ -75,6 +75,9 @@ Regards
 * Venmo
   * User: andrea-silvaurzua
 
+***
+***
+
 ## Original paintings
 <table border="0" style="width:100%">
 <tr>
@@ -86,8 +89,6 @@ Regards
     </td>
 </tr>
 </table>
-
-***
 
 # Other products
 Job inquiries, say hello or any questions can be sent to: 
