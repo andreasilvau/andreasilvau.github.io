@@ -14,10 +14,10 @@ title: Store
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/shop/4.jpg" style="width:100%">
     </td>
     <td style="width:50%">
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/shop/5.jpg" style="width:100%">
     </td>
 </tr>
 </table>
@@ -32,10 +32,10 @@ title: Store
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/shop/2.jpg" style="width:100%">
     </td>
     <td style="width:50%">
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/shop/3.jpg" style="width:100%">
     </td>
 </tr>
 </table>
@@ -81,16 +81,7 @@ Regards
 # Other products
 
 ## Original paintings
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chincol1.jpg" style="width:100%">
-    </td>
-</tr>
-</table>
+<img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/shop/1.jpg" style="width:100%">
 
 Job inquiries, say hello or any questions can be sent to: 
 andrea.silva.u@gmail.com
