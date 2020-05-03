@@ -22,11 +22,10 @@ title: Store
 </tr>
 </table>
 
-
 |Price usd    | Size inches    | Name     |
 |:-----------:|:--------------:|---------:|
 |2.00         | 4.25 x 5.5     | Small    |
-|3.00         | 5.5 x 4.25     | Big      |
+|3.00         | 5 x 7          | Big      |
 
 ## Postcards
 <table border="0" style="width:100%">
@@ -43,7 +42,7 @@ title: Store
 |Price usd    | Size inches    | Name     |
 |:-----------:|:--------------:|---------:|
 |2.00         | 4.25 x 5.5     | Small    |
-|3.00         | 5.5 x 4.25     | Big      |
+|3.00         | 5 x 7          | Big      |
 
 # 2) How to order
 * Send us a message by clicking any of the icons on the top right corner 
