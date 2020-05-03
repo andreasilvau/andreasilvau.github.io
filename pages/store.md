@@ -87,6 +87,8 @@ Regards
 </tr>
 </table>
 
+***
+
 # Other products
 Job inquiries, say hello or any questions can be sent to: 
 andrea.silva.u@gmail.com
