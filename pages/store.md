@@ -83,7 +83,7 @@ Regards
 ## Original paintings
 <img border="0" alt="Original paintings 1" src="https://andreasilvau.github.io/assets/img/shop/1.jpeg" style="width:50%">
 
-Job inquiries, say hello or any questions can be sent to: 
+Job inquiries, say hello or any other question can be sent to: 
 andrea.silva.u@gmail.com
 
 A better store website is coming up soon :)
