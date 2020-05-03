@@ -52,7 +52,7 @@ title: Store
 * We will need the following information from you
   * The product you want
   * The size you want
-  * The image you want (each image has a corresponding name)
+  * The image you want (check for the corresponding name)
   * Your address
 * We will deliver things to you in up to 10 business days
 
