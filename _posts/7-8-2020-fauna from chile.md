@@ -4,7 +4,7 @@ title: "Fauna de Chile"
 author: "Andrea Silva Urzua"
 categories: naturalist
 tags: [documentation,sample]
-image: birdsOfChile.jpg
+image: jorobada_frame.jpg
 ---
 
 The following is a collection of native Fauna from Chile, my homecountry. They are made in watercolors
