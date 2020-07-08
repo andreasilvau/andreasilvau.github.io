@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Birds of Chile"
+title: "birdsOfChile"
 author: "Andrea Silva Urzua"
 categories: naturalist
 tags: [documentation,sample]
 image: birdsOfChile.jpg
 ---
 
-The following is a collection of birds native from Chile, my homecountry. They are made in watercolors
+The following is a collection of native birds from Chile, my homecountry. They are made in watercolors
 
 ## Chincol
 <table border="0" style="width:100%">
