@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fauna de Chile"
+title: "Fauna from Chile"
 author: "Andrea Silva Urzua"
 categories: naturalist
 tags: [documentation,sample]
