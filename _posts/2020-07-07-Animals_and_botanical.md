@@ -9,16 +9,19 @@ image: animalesybotanica.jpg
 
 The following is a collection of new animals that I made with watercolors.
 
-## Seahorse
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
+      <p align="justify">
+        Seahorse 1
+      </p>
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
-aqui va texto
+          Seahorse 2
         </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
     </td>
 </tr>
 </table>
