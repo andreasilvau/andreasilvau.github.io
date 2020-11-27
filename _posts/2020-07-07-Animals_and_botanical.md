@@ -13,7 +13,7 @@ The following is a collection of new animals that I made with watercolors.
 <tr>
     <td style="width:50%">
       <p align="justify" style="font-size:30px">
-        <b> Seahorse 1 <\b>
+        <b> Seahorse 1 </b>
       </p>
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
     </td>
