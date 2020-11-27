@@ -4,7 +4,7 @@ title: "Animals and Botanical"
 author: "Andrea Silva Urzua"
 categories: naturalist
 tags: [documentation,sample]
-image: animalesybotanica.jpeg
+image: animalesybotanica.jpg
 ---
 
 The following is a collection of new animals that I made with watercolors.
