@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Kids Illustrations"
+title: "Illustrations"
 author: "Andrea Silva Urzua"
 categories: illustrative
 tags: [documentation,sample]
 image: kids.jpg
 ---
-
-The following is a collection of my kids Illustrations.
 
 
 <table border="0" style="width:100%">
@@ -61,5 +59,35 @@ The following is a collection of my kids Illustrations.
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/mouse.jpeg" style="width:100%">
     </td>
 
+</tr>
+</table>
+
+<table border="0" style="width:100%">
+<tr>
+    <td style="width:50%">
+      <p align="justify" style="font-size:30px">
+
+      </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chica_azul.jpg" style="width:100%">
+    </td>
+    <td style="width:50%">
+        <p align="justify">
+
+        </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/brujita.jpeg" style="width:100%">
+    </td>
+
+</tr>
+</table>
+
+
+<table border="0" style="width:100%">
+<tr>
+    <td style="width:50%">
+      <p align="justify" style="font-size:30px">
+
+      </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/verde.jpg" style="width:100%">
+    </td>
 </tr>
 </table>

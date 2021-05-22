@@ -87,7 +87,24 @@ This collection had animals and botanical art that I made during 2020.
 </tr>
 </table>
 
+<table border="0" style="width:100%">
+<tr>
+<td style="width:50%">
+    <p align="justify">
 
+    </p>
+    <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/chinita.jpg" style="width:100%">
+</td>
+
+    <td style="width:50%">
+      <p align="justify" style="font-size:30px">
+
+      </p>
+    <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/camelia.jpg" style="width:100%">
+</td>
+
+</tr>
+</table>
 
 <table border="0" style="width:100%">
 <tr>
@@ -103,18 +120,5 @@ This collection had animals and botanical art that I made during 2020.
         </p>
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/suculenta.jpg" style="width:100%">
     </td>
-</tr>
-</table>
-
-
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-      <p align="justify" style="font-size:30px">
-
-      </p>
-    <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/camelia.jpg" style="width:100%">
-</td>
-
 </tr>
 </table>
