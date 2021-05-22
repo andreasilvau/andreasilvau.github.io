@@ -20,10 +20,6 @@ The following is a collection of  animals that I made with watercolors.
         <p align="justify">
 Aqui Va texto
         </p>
-    </td>
-</tr>
-</table>
-
 
 <table border="0" style="width:100%">
 <tr>
@@ -36,9 +32,7 @@ Aqui Va texto
         <p align="justify">
 Aqui Va texto
         </p>
-    </td>
-</tr>
-</table>
+
 
 ## Octopus
 <table border="0" style="width:100%">
