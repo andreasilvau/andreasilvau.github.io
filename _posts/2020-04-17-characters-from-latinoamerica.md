@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: juguetes.jpg
 ---
 
-The following is a collection special characteres from Latinoamérica.
+The following is an special collection of characteres from Latinoamérica made with a varity of materials.
 
 ## Catrina
 <table border="0" style="width:100%">
