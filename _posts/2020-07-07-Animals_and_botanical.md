@@ -25,7 +25,7 @@ The following is a collection of new animals that I made with watercolors.
     </td>
     <td style="width:33%">
         <p align="justify">
-        
+
         </p>
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/pulpo.jpg" style="width:100%">
     </td>
@@ -33,131 +33,67 @@ The following is a collection of new animals that I made with watercolors.
 </table>
 
 
-
-## Jellyfish
 <table border="0" style="width:100%">
 <tr>
-    <td style="width:50%">
-        <img border="0" alt="Pinguino de Humboldt" src="https://andreasilvau.github.io/assets/img/medusa.png" style="width:100%">
+    <td style="width:33%">
+      <p align="justify" style="font-size:30px">
+
+      </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/medusa.jpg" style="width:100%">
     </td>
-    <td style="width:50%">
+    <td style="width:33%">
         <p align="justify">
-aqui va texto
+
         </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/goldenfish.jpg" style="width:100%">
+    </td>
+    <td style="width:33%">
+        <p align="justify">
+
+        </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/escarabajoverde.jpg" style="width:100%">
     </td>
 </tr>
 </table>
 
-## Cat
 <table border="0" style="width:100%">
 <tr>
-    <td style="width:50%">
-        <img border="0" alt="Picaflor chico" src="https://andreasilvau.github.io/assets/img/gato.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-texto
-        </p>
-    </td>
-</tr>
-</table>
+    <td style="width:33%">
+      <p align="justify" style="font-size:30px">
 
-## Golden Fish
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/goldenfish.jpg" style="width:100%">
+      </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/firefly.jpg" style="width:100%">
     </td>
-    <td style="width:50%">
+    <td style="width:33%">
         <p align="justify">
-texto
-        </p>
-    </td>
-</tr>
-</table>
 
-## Green beetle
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/escarabajoverde.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-texto
         </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/carpa.jpg" style="width:100%">
+    </td>
+    <td style="width:33%">
+        <p align="justify">
+
+        </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/camelia.jpg" style="width:100%">
     </td>
 </tr>
 </table>
 
 
 
-## Firefly
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-        <img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/firefly.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-texto
-        </p>
-    </td>
-</tr>
-</table>
+      <p align="justify" style="font-size:30px">
 
-## Koi Fish
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/carpa.jpg" style="width:100%">
+      </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/protea1.jpg" style="width:100%">
     </td>
     <td style="width:50%">
         <p align="justify">
-texto
-        </p>
-    </td>
-</tr>
-</table>
 
-## Camelia
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Camelia" src="https://andreasilvau.github.io/assets/img/camelia.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-Camelia en tonos rosa. Watercolor
         </p>
-    </td>
-</tr>
-</table>
-
-## King Protea
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Camelia" src="https://andreasilvau.github.io/assets/img/protea1.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-texto
-        </p>
-    </td>
-</tr>
-</table>
-
-## Succulent
-<table border="0" style="width:100%">
-<tr>
-    <td style="width:50%">
-        <img border="0" alt="Camelia" src="https://andreasilvau.github.io/assets/img/suculenta.jpg" style="width:100%">
-    </td>
-    <td style="width:50%">
-        <p align="justify">
-texto
-        </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/suculenta.jpg" style="width:100%">
     </td>
 </tr>
 </table>
