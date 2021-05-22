@@ -40,7 +40,7 @@ image: digital.jpg
 
         </p>
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/ld4.jpg" style="width:100%">
-    </td
+    </td>
 
 </tr>
 </table>
