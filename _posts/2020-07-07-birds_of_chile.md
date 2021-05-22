@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "birdsOfChile"
+title: "birds of Chile"
 author: "Andrea Silva Urzua"
 categories: naturalist
 tags: [documentation,sample]
