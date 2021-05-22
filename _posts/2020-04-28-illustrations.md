@@ -74,7 +74,7 @@ image: kids.jpg
         <p align="justify">
 
         </p>
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/brujita.jpeg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/brujita.jpg" style="width:100%">
     </td>
 
 </tr>
