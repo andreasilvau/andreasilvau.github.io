@@ -39,7 +39,7 @@ image: digital.jpg
         <p align="justify">
 
         </p>
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/ld4.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/d4.jpg" style="width:100%">
     </td>
 
 </tr>
@@ -107,6 +107,6 @@ image: digital.jpg
       </p>
         <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/d12.jpg" style="width:100%">
     </td>
-  
+
 </tr>
 </table>
