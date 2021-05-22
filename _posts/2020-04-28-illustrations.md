@@ -81,7 +81,7 @@ image: kids.jpg
 </table>
 
 
-<table border="0" style="width:100%">
+<table border="0" style="width:50%">
 <tr>
     <td style="width:50%">
       <p align="justify" style="font-size:30px">
