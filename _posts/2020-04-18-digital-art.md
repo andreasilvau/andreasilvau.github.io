@@ -57,7 +57,7 @@ image: digital.jpg
         <p align="justify">
 
         </p>
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/d7jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/pangolin.jpg" style="width:100%">
     </td>
 
 </tr>
