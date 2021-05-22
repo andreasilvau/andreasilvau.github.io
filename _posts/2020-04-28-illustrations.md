@@ -2,7 +2,7 @@
 layout: post
 title: "Illustrations"
 author: "Andrea Silva Urzua"
-categories: illustrative
+categories: watercolor
 tags: [documentation,sample]
 image: kids.jpg
 ---

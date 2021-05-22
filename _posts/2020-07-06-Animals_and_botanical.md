@@ -2,7 +2,7 @@
 layout: post
 title: "Animals and Botanical"
 author: "Andrea Silva Urzua"
-categories: naturalist
+categories: watercolor
 tags: [documentation,sample]
 image: animalesybotanica.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Art"
 author: "Andrea Silva Urzua"
-categories: artwork
+categories: digital artwork
 tags: [documentation,sample]
 image: digital.jpg
 ---
