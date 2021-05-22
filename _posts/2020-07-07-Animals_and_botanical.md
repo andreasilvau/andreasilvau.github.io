@@ -7,25 +7,44 @@ tags: [documentation,sample]
 image: animalesybotanica.jpg
 ---
 
-The following is a collection of  animals that I made with watercolors.
+The following is a collection of new animals that I made with watercolors.
 
 <table border="0" style="width:100%">
 <tr>
-    <td style="width:50%">
-    <p align="justify" style="font-size:30px">
-    <b>Sea Horse   </b>
-        <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
+    <td style="width:33%">
+      <p align="justify" style="font-size:30px">
+        <b> Seahorse 1 </b>
+      </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
     </td>
+    <td style="width:33%">
+        <p align="justify">
+          Seahorse 2
+        </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
+    </td>
+    <td style="width:33%">
+        <p align="justify">
+          Seahorse 2
+        </p>
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
+    </td>
+</tr>
+</table>
 
+## Luna Moth
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
-    <p align="justify" style="font-size:30px">
-    <b>Luna Moth   </b>
         <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/lunamoth.jpg" style="width:100%">
     </td>
-  
-
+    <td style="width:50%">
+        <p align="justify">
+Aqui Va texto
+        </p>
+    </td>
+</tr>
+</table>
 
 ## Octopus
 <table border="0" style="width:100%">
