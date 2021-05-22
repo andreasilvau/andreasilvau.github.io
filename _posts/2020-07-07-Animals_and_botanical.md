@@ -16,10 +16,6 @@ The following is a collection of  animals that I made with watercolors.
     <b>Sea Horse   </b>
         <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/seahorse.jpg" style="width:100%">
     </td>
-    <td style="width:50%">
-        <p align="justify">
-Aqui Va texto
-        </p>
 
 <table border="0" style="width:100%">
 <tr>
@@ -28,10 +24,7 @@ Aqui Va texto
     <b>Luna Moth   </b>
         <img border="0" alt="Chucao" src="https://andreasilvau.github.io/assets/img/lunamoth.jpg" style="width:100%">
     </td>
-    <td style="width:50%">
-        <p align="justify">
-Aqui Va texto
-        </p>
+  
 
 
 ## Octopus
