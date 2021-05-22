@@ -7,7 +7,9 @@ tags: [documentation,sample]
 image: animalesybotanica.jpg
 ---
 
-The following is a collection of new animals that I made with watercolors.
+"I am moved by the nature of the medium when I approach it with no preconceived ideas; the accidental happenings of the rapid, free-flowing action of watercolor when used wet-into-wet. (Carlton Plummer)"
+
+This collection had animals and botanical art that I made during 2020.  
 
 <table border="0" style="width:100%">
 <tr>
