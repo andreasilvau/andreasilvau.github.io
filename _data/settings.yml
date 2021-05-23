@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-164945011-1'
 
 menu:
-- {name: 'Illustrative Watercolor', folder: 'pages', file: 'illustrative.html'}
-- {name: 'Naturalist Illustration', folder: 'pages', file: 'naturalist.html'}
-- {name: 'Artwork', folder: 'pages', file: 'artwork.html'}
+- {name: 'Watercolor', folder: 'pages', file: 'watercolor.html'}
+- {name: 'Digital Artwork', folder: 'pages', file: 'digital.html'}
+- {name: 'Exhibitions', folder: 'pages', file: 'exhibitions.html'}
 - {name: 'About me', folder: 'pages', file: 'about.html'}
 - {name: 'Store', folder: 'pages', file: 'store.html'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
