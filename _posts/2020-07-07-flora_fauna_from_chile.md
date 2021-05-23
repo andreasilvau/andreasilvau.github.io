@@ -96,8 +96,7 @@ Seven Colors is a bird that lives in central Chile. Active, but can be overlooke
 
 
 ## Jorobada Humpback
-
-<table border="0" style="width:50%">
+<table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
         <img border="0" alt="Siete colores" src="https://andreasilvau.github.io/assets/img/jorobada_rgb.jpg" style="width:100%">
