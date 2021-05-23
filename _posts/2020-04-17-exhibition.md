@@ -2,7 +2,7 @@
 layout: post
 title: "Exhibitions and Markets"
 author: "Andrea Silva Urzua"
-categories: exhibition
+categories: Exhibitions
 tags: [documentation,sample]
 image:
 ---
