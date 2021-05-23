@@ -2,12 +2,12 @@
 layout: post
 title: "Exhibitions and Markets"
 author: "Andrea Silva Urzua"
-categories: exhibition
+categories: Exhibitions
 tags: [documentation,sample]
 image:
 ---
 ## Winter's Market (State College)
-[Website](https://therivet.org/)
+[https://therivet.org/]
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
@@ -82,7 +82,8 @@ image:
 </table>
 
 ## The HGB Flea (Harrisburg)
-[Website](https://www.hbgflea.com/)
+[https://www.hbgflea.com/]
+
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">

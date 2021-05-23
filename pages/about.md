@@ -9,7 +9,8 @@ My name is Andrea, I am a Chilean midwife and a self-taught artist. I am current
 
 <p align="justify">
 Currently member at Art Alliance of Central Pennsylvania
-[Website](https://artallianceofcentralpa.org/)
+[https://artallianceofcentralpa.org]
+
 </p>
 
 <p align="justify">
