@@ -8,7 +8,7 @@ title: Store
 ## Artprints, card, postcards and more
 <p align="justify">
 Any of the paintings in this site can be converted into a nice folded greeting card or postcard.
-You can buy them from my website or from <a href="https://www.etsy.com/shop/AndreaSilvaArt">my Etsy Shop</a>
+You can contact me directly or buy them from <a href="https://www.etsy.com/shop/AndreaSilvaArt">my Etsy Shop</a>
 </p>
 
 ## Pet comissions
