@@ -3,6 +3,8 @@ layout: misc
 title: Store
 ---
 
+Are you looking to decorate your home or send a nice present to a good friend?
+Well, here you have some options!
 
 
 ## Artprints, card, postcards and more
