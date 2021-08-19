@@ -7,11 +7,12 @@ disqus:
 google-ID: 'UA-164945011-1'
 
 menu:
-- {name: 'Watercolor', folder: 'pages', file: 'watercolor.html'}
-- {name: 'Digital Artwork', folder: 'pages', file: 'digital.html'}
+# - {name: 'Watercolor', folder: 'pages', file: 'watercolor.html'}
+# - {name: 'Digital Artwork', folder: 'pages', file: 'digital.html'}
+- {name: 'Portfolio', folder: 'pages', file: 'portfolio.html'}
 - {name: 'Exhibitions', folder: 'pages', file: 'exhibitions.html'}
-- {name: 'About me', folder: 'pages', file: 'about.html'}
 - {name: 'Store', folder: 'pages', file: 'store.html'}
+- {name: 'About me', folder: 'pages', file: 'about.html'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: digital.jpg
 ---
 
-
-
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
