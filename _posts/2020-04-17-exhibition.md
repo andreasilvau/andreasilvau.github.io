@@ -6,8 +6,10 @@ categories: Exhibitions
 tags: [documentation,sample]
 image:
 ---
+
 ## Winter's Market (State College)
-[https://therivet.org/]
+[The Rivet](https://therivet.org/)
+
 <table border="0" style="width:100%">
 <tr>
     <td style="width:50%">
@@ -82,7 +84,7 @@ image:
 </table>
 
 ## The HGB Flea (Harrisburg)
-[https://www.hbgflea.com/]
+[HBG Flea Market](https://www.hbgflea.com/)
 
 <table border="0" style="width:100%">
 <tr>
