@@ -39,7 +39,7 @@ Message me to arrange a booking. 50% deposit will be required for booking via Pa
 - Step 4: Payment
 
 <p align="justify">
-After the remaining payment is received, I will send you the painting directly.
+After the remaining payment is received, I will send you the painting directly. We take Venmo, PayPal and good old Bank transfers.
 </p>
 
 ## Looking for somehting else?
