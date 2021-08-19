@@ -45,6 +45,6 @@ After the remaining payment is received, I will send you the painting directly. 
 ## Looking for somehting else?
 
 <p align="justify">
-To say hello or any other question can be sent to: andrea.silva.u@gmail.com
+Comments or questions can be sent to: andrea.silva.u@gmail.com
 </p>
 
