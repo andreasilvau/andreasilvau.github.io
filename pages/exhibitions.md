@@ -74,7 +74,7 @@ author: "Andrea Silva Urzua"
         <p align="justify">
 
         </p>
-        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/r14.jpg" style="width:100%">
+        <img border="0" alt="Chincol" src="https://andreasilvau.github.io/assets/img/r2.jpg" style="width:100%">
     </td>
 
 </tr>
