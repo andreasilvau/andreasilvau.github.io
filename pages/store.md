@@ -3,6 +3,8 @@ layout: misc
 title: Store
 ---
 
+
+
 ## Artprints, card, postcards and more
 <p align="justify">
 Any of the paintings in this site can be converted into a nice folded greeting card or postcard.
