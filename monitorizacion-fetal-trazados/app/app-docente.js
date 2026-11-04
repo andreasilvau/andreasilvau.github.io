@@ -338,12 +338,13 @@ function sel(opts, val) { var s = h('select'); opts.forEach(function (o, i) { va
 /* ================= ingreso ================= */
 function pedirClave(luego) {
   var d = dialogo('Ingreso docente', true);
-  var inp = h('input', { type: 'password', autocomplete: 'current-password', id: 'dc-clave' });
+  var inp = h('input', { type: 'password', autocomplete: 'off', autocapitalize: 'none', autocorrect: 'off', spellcheck: 'false', id: 'dc-clave' });
+  var ver = h('input', { type: 'checkbox', id: 'dc-ver' }); ver.addEventListener('change', function () { inp.type = ver.checked ? 'text' : 'password'; });
   var msg = h('p', { class: 'dc-ayuda', role: 'status' });
   var btn = h('button', { class: 'dc-btn pri', type: 'submit', text: 'Entrar' });
-  var f = h('form', null, [h('p', { text: 'Con la clave docente puedes editar los textos de cada pestaña, crear casos clínicos, subir registros reales y ordenar u ocultar contenido.' }), campo('Clave docente', inp), msg, h('div', { class: 'dc-fila' }, [btn])]);
+  var f = h('form', null, [h('p', { text: 'Con la clave docente puedes editar los textos de cada pestaña, crear casos clínicos, subir registros reales y ordenar u ocultar contenido.' }), campo('Clave docente', inp), h('label', { class: 'dc-chk', style: 'margin:4px 0' }, [ver, 'Mostrar la clave']), msg, h('div', { class: 'dc-fila' }, [btn])]);
   f.addEventListener('submit', function (ev) {
-    ev.preventDefault(); clave = inp.value.trim(); if (!clave) return;
+    ev.preventDefault(); clave = inp.value.normalize('NFKC').toLowerCase().replace(/[\u2010-\u2015\u2212]/g, '-').replace(/\s+/g, ''); if (!clave) return;
     btn.disabled = true; msg.className = 'dc-ayuda'; msg.textContent = 'Comprobando…';
     api('probar').then(function () { try { sessionStorage.setItem('mf-clave', clave); } catch (e) {} d.dlg.close(); (luego || entrar)(); })
       .catch(function (e) { btn.disabled = false; msg.className = 'dc-err'; msg.textContent = e.message; inp.select(); });
