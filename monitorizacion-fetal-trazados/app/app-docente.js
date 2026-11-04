@@ -250,7 +250,7 @@ function aplicarEstructura(d) {
   var tr = todosRegistros(d).filter(function (x) { return !oc[x.id]; });
   REAL.splice.apply(REAL, [0, REAL.length].concat(tr.filter(function (x) { return x.real; })));
   INF.splice.apply(INF, [0, INF.length].concat(tr.filter(function (x) { return !x.real; })));
-  ALLINF.splice.apply(ALLINF, [0, ALLINF.length].concat(REAL, INF));
+  ALLINF.splice.apply(ALLINF, [0, ALLINF.length].concat(INF, REAL));
   try { lista(); } catch (e) {}
   try { infLista(); } catch (e) {}
   try { avance(); } catch (e) {}
@@ -267,6 +267,7 @@ function olvidarClave() { clave = null; try { sessionStorage.removeItem('mf-clav
 
 /* ================= estilos ================= */
 var css = [
+  '#inf-cards{display:block}#inf-cards .group{margin:0 0 26px}#inf-cards .group>h3{margin-top:8px}',
   '.dc-acceso{max-width:1180px;margin:0 auto;padding:0 18px 28px;font-size:.85rem}',
   '.dc-acceso a{color:var(--muted)}',
   'body.dc-on{padding-bottom:84px}',
@@ -634,7 +635,7 @@ function panelRegistros() {
     var todos = todosRegistros(D); D.orden.inf = todos.map(function (x) { return x.id; });
     d.cuerpo.appendChild(h('p', { class: 'dc-ayuda', text: 'Sube registros reales con su clave de respuestas y la retroalimentación del equipo docente. También puedes ordenar u ocultar cualquier registro.' }));
     d.cuerpo.appendChild(h('div', { class: 'dc-fila' }, [h('button', { class: 'dc-btn pri', type: 'button', text: 'Agregar registro real', onclick: function () { d.dlg.close(); editorReal(null); } })]));
-    [[true, 'Trazados reales'], [false, 'Trazados simulados']].forEach(function (g) {
+    [[false, 'Trazados simulados (van primero)'], [true, 'Trazados reales (van después)']].forEach(function (g) {
       var del = todos.filter(function (x) { return !!x.real === g[0]; }); if (!del.length) return;
       d.cuerpo.appendChild(h('h3', { text: g[1] }));
       var ul = h('ul', { class: 'dc-lista' });
@@ -777,6 +778,38 @@ function exportar(cv, cb) {
     }, t[0], t[1]);
   })(0);
 }
+
+/* ================= informe: primero simulados, luego el paso a los reales ================= */
+var pInf = document.querySelector('#inf-lista > p');
+if (pInf && /primero con trazados reales/.test(pInf.textContent)) pInf.textContent = 'Aquí lees un registro completo como lo harías en el campo clínico. Primero practicas con trazados simulados y luego pasas a trazados reales. Anota tus hallazgos en el formulario, escribe la conducta que propones y luego revisa tu informe: verás cada dato corregido, con su explicación y la conducta que propone el equipo docente.';
+infLista = function () {
+  var done = ALLINF.filter(function (x) { return PROG.inf[x.id]; }).length;
+  $('inf-resumen').textContent = done + ' de ' + ALLINF.length + ' registros informados.';
+  var box = $('inf-cards'); box.innerHTML = '';
+  [[INF, '1. Trazados simulados', 'Registros intraparto generados en la página, para practicar la pauta de informe.'],
+   [REAL, '2. Paso a los trazados reales', 'Cuando termines los simulados, aplica la misma pauta en registros de pacientes, anonimizados, con el informe del equipo docente.']].forEach(function (g) {
+    if (!g[0].length) return;
+    var d = el('div', 'group'); d.appendChild(el('h3', null, g[1])); d.appendChild(el('p', 'legend', g[2]));
+    var cards = el('div', 'cards');
+    g[0].forEach(function (x, n) {
+      var b = el('button', 'card'); b.type = 'button'; b.id = 'inf-card-' + x.id; var pr = PROG.inf[x.id];
+      b.appendChild(el('small', null, (x.real ? 'Real ' : 'Simulado ') + (n + 1) + ' · ' + (x.tipo || 'MEFI'))); b.appendChild(el('b', null, x.t));
+      b.appendChild(el('span', 'pill' + (pr ? ' done' : ''), pr ? 'Mejor resultado: ' + pr.s + ' de ' + pr.n : 'Pendiente'));
+      b.addEventListener('click', function () { infAbrir(x.id); }); cards.appendChild(b);
+    });
+    d.appendChild(cards); box.appendChild(d);
+  });
+  avance();
+};
+$('inf-form').addEventListener('submit', function () {
+  setTimeout(function () {
+    var nb = $('inf-next'); if (!nb || !iCur) return;
+    var sig = ALLINF[ALLINF.indexOf(iCur) + 1];
+    if (!iCur.real && sig && sig.real) nb.textContent = 'Pasar a los trazados reales';
+  }, 0);
+});
+ALLINF.splice.apply(ALLINF, [0, ALLINF.length].concat(INF, REAL));
+try { infLista(); } catch (e) {}
 
 /* ================= arranque ================= */
 indexar();
