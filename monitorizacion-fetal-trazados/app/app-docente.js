@@ -267,6 +267,7 @@ function olvidarClave() { clave = null; try { sessionStorage.removeItem('mf-clav
 
 /* ================= estilos ================= */
 var css = [
+  '.fig-ctg{margin:18px 0 22px;max-width:620px}.fig-ctg img{display:block;width:100%;height:auto}.fig-ctg figcaption{font-size:.9rem;color:var(--muted);margin-top:6px;line-height:1.45}',
   '#inf-cards{display:block}#inf-cards .group{margin:0 0 26px}#inf-cards .group>h3{margin-top:8px}',
   '.dc-acceso{max-width:1180px;margin:0 auto;padding:0 18px 28px;font-size:.85rem}',
   '.dc-acceso a{color:var(--muted)}',
@@ -778,6 +779,19 @@ function exportar(cv, cb) {
     }, t[0], t[1]);
   })(0);
 }
+
+/* ================= ilustración del cardiotocógrafo en «Tipos de monitoreo» ================= */
+(function () {
+  var sec = document.getElementById('tipos'); if (!sec || document.getElementById('fig-ctg')) return;
+  var h3 = [].slice.call(sec.querySelectorAll('h3')).filter(function (x) { return /Qué registra el monitor/.test(x.textContent); })[0];
+  if (!h3) return;
+  var ul = h3.nextElementSibling; while (ul && ul.tagName !== 'UL' && ul.tagName !== 'H3') ul = ul.nextElementSibling;
+  var fig = h('figure', { id: 'fig-ctg', class: 'fig-ctg' }, [
+    h('img', { src: '/reales/equipo-ctg.webp', width: '1200', height: '800', loading: 'lazy', decoding: 'async',
+      alt: 'Ilustración de una gestante con dos transductores sujetos con cinturones: el tocodinamómetro en el fondo uterino y el transductor Doppler sobre el dorso fetal, conectados a un cardiotocógrafo que imprime el registro.' }),
+    h('figcaption', { text: 'El tocodinamómetro va en el fondo uterino y registra las contracciones; el transductor de ultrasonido (Doppler) va sobre el dorso fetal y capta la FCF. El cardiotocógrafo imprime ambos canales en el papel.' })]);
+  (ul && ul.tagName === 'UL' ? ul : h3).after(fig);
+})();
 
 /* ================= informe: primero simulados, luego el paso a los reales ================= */
 var pInf = document.querySelector('#inf-lista > p');
